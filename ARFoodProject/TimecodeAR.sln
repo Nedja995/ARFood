@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimecodeAR.CSharp.Plugins", "TimecodeAR.CSharp.Plugins.csproj", "{E92708C6-6754-D389-0ED2-1AF27FD6FEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimecodeAR.CSharp", "TimecodeAR.CSharp.csproj", "{369917C7-47E2-60C6-B71A-E55EAE22DCE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimecodeAR.CSharp.Editor", "TimecodeAR.CSharp.Editor.csproj", "{C26C7CC3-8D9A-FC11-CF54-EFEF795E8C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92708C6-6754-D389-0ED2-1AF27FD6FEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92708C6-6754-D389-0ED2-1AF27FD6FEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92708C6-6754-D389-0ED2-1AF27FD6FEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92708C6-6754-D389-0ED2-1AF27FD6FEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369917C7-47E2-60C6-B71A-E55EAE22DCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369917C7-47E2-60C6-B71A-E55EAE22DCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369917C7-47E2-60C6-B71A-E55EAE22DCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369917C7-47E2-60C6-B71A-E55EAE22DCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26C7CC3-8D9A-FC11-CF54-EFEF795E8C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26C7CC3-8D9A-FC11-CF54-EFEF795E8C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26C7CC3-8D9A-FC11-CF54-EFEF795E8C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26C7CC3-8D9A-FC11-CF54-EFEF795E8C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
